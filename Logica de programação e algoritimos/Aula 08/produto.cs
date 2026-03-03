@@ -1,5 +1,8 @@
 using static System.Console;
 
+
+
+
 //----Declração de variaveis------
 int codigo, quantidade;
 //----Entrada de dados--------
