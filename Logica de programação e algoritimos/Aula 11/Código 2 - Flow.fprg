@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="C&#243;digo 2 - Flow"/>
+        <attribute name="authors" value="FIC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-03-09 07:30:57 "/>
+        <attribute name="created" value="RklDO0VDRlA1MDdEMTMxOTM4OTsyMDI2LTAzLTA5OyIwNzoxNzoxMyAiOzIyODY="/>
+        <attribute name="edited" value="RklDO0VDRlA1MDdEMTMxOTM4OTsyMDI2LTAzLTA5OyIwNzozMDo1NyAiOzE7MjM5Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, notafinal" type="Real" array="False" size=""/>
+            <output expression="&quot;Digite a 1&#176; nota: &quot;" newline="False"/>
+            <input variable="nota1"/>
+            <output expression="&quot;Digite a 2&#176; nota: &quot;" newline="True"/>
+            <input variable="nota2"/>
+            <assign variable="notafinal" expression="nota1 + nota2"/>
+            <if expression="notafinal &gt; 60">
+                <then>
+                    <output expression="&quot;Aprovado, Nota final: &quot; &amp; notafinal" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Reprovado, nota final: &quot; &amp; notafinal" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
