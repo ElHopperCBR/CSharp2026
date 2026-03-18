@@ -1,4 +1,4 @@
-#arquivo a serem ignorados pelo git
+#Arquivos que não vão subir para o repositorio
 
 *.vs
-*.Logica de programação e algoritmos
+*.Logica de programação e algoritmo

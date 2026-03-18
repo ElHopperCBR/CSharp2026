@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExemploSemPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6b7d107e3d8e9a59afa0c967800fbfbb85b5b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36edce10b121383da828a49a3dc9707ab70106a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExemploSemPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExemploSemPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
