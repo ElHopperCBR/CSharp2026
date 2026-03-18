@@ -1,0 +1,4 @@
+#arquivo a serem ignorados pelo git
+
+*.vs
+*.Logica de programação e algoritmos

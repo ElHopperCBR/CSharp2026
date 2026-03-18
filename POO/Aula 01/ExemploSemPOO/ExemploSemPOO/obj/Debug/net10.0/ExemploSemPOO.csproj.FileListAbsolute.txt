@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\bin\Debug\net10.0\ExemploSemPOO.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\bin\Debug\net10.0\ExemploSemPOO.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\bin\Debug\net10.0\ExemploSemPOO.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\bin\Debug\net10.0\ExemploSemPOO.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\bin\Debug\net10.0\ExemploSemPOO.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\refint\ExemploSemPOO.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ExemploSemPOO.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 01\ExemploSemPOO\ExemploSemPOO\obj\Debug\net10.0\ref\ExemploSemPOO.dll

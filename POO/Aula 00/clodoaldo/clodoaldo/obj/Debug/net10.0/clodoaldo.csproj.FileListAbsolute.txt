@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\bin\Debug\net10.0\clodoaldo.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\bin\Debug\net10.0\clodoaldo.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\bin\Debug\net10.0\clodoaldo.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\bin\Debug\net10.0\clodoaldo.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\bin\Debug\net10.0\clodoaldo.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\refint\clodoaldo.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\clodoaldo.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 00\clodoaldo\clodoaldo\obj\Debug\net10.0\ref\clodoaldo.dll
