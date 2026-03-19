@@ -8,6 +8,12 @@
         public int quantidade;
 
         //Construtor
+        public Produto(string nome, double preco)
+        {
+            this.nome = nome;
+            this.preco = preco;
+            quantidade = 0;
+        }
         public Produto(string nome, double preco, int quantidade)
         {
             this.nome = nome;
