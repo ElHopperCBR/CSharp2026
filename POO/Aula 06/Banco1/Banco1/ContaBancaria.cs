@@ -10,11 +10,9 @@
         public int Numero
         {
             get { return numero; }
-            set { int tamanho = Convert.ToString(value);
-
-
-                if ((tamanho).Length) < 5){ }
-                numero = value; 
+            set
+            {
+                numero = value;    
             }
         }
         public string Titular
