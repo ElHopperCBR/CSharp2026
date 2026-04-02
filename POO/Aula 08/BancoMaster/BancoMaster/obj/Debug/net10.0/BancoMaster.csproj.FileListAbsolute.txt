@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\bin\Debug\net10.0\BancoMaster.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\refint\BancoMaster.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\BancoMaster.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 08\BancoMaster\BancoMaster\obj\Debug\net10.0\ref\BancoMaster.dll
