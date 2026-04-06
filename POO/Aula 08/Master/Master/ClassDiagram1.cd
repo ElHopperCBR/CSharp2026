@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Master.Conta" Collapsed="true">
+  <Class Name="Master.Conta">
     <Position X="7.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAIAEAAAAAAAAAAAAAgAAAAAAEAAEgAAQCAAA=</HashCode>
@@ -8,28 +8,28 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="Master.ContaPJ" Collapsed="true">
-    <Position X="8.5" Y="3" Width="1.5" />
+  <Class Name="Master.ContaPJ">
+    <Position X="9" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAACAAAAA=</HashCode>
       <FileName>ContaPJ.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Master.ContaPoupanca" Collapsed="true">
-    <Position X="6" Y="3" Width="1.5" />
+  <Class Name="Master.ContaPoupanca">
+    <Position X="5.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAAI=</HashCode>
       <FileName>ContaPoupanca.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Struct Name="Master.Pessoa">
-    <Position X="2.5" Y="1.25" Width="1.5" />
+    <Position X="3.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>Pessoa.cs</FileName>
     </TypeIdentifier>
   </Struct>
-  <Interface Name="Master.IOperacao" Collapsed="true">
+  <Interface Name="Master.IOperacao">
     <Position X="5.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>

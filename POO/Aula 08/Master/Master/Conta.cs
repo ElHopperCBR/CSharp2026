@@ -44,5 +44,14 @@
         {
             SaldoConta -= qtd;
         }
+
+        public override string ToString()
+        {
+            return $"Dados da conta: " +
+                $"\n\tNome do titular: {cliente.nome}" +
+                $"\n\tCPF do titular: {cliente.cpf}" +
+                $"\n\tNúmero da conta: {numero}" +
+                $"\n\tSaldo da conta: {saldo:C}";
+        }
     }
 }
