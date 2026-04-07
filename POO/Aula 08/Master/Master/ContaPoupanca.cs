@@ -25,9 +25,11 @@ namespace Master
 		public void Consulta()
 		{
             Console.WriteLine($"Dados do cliente: \n" +
-				$"\t Nome: {DadosCliente}\n" +
+				$"\t Nome: {DadosCliente.nome}\n" +
+				$"\t CPF: {DadosCliente.cpf}\n" +
 				$"\t Numero: {NumeroConta}\n" +
-				$"\t Saldo: {SaldoConta}");
+				$"\t Saldo: {SaldoConta}\n" +
+				$"\t Rendimento: {rendimento}%");
 		}
 
 	}

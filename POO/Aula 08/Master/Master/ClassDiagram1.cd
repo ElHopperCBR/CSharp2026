@@ -3,38 +3,45 @@
   <Class Name="Master.Conta">
     <Position X="7.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAIAEAAAAAAAAAAAAAgAAAAAAEAAEgAAQCAAA=</HashCode>
+      <HashCode>AAAAAAAAIAEAAAAEAAAAAAAAgAAAAAAEAAEgAAQCAAA=</HashCode>
       <FileName>Conta.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Master.ContaPJ">
-    <Position X="9" Y="4.5" Width="1.5" />
+    <Position X="9" Y="5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAAACAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAACAAAACAAAAA=</HashCode>
       <FileName>ContaPJ.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Master.ContaPoupanca">
-    <Position X="5.5" Y="4.5" Width="1.5" />
+    <Position X="5.5" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAAI=</HashCode>
       <FileName>ContaPoupanca.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Struct Name="Master.Pessoa">
-    <Position X="3.5" Y="0.75" Width="1.5" />
+    <Position X="2.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>Pessoa.cs</FileName>
     </TypeIdentifier>
   </Struct>
   <Interface Name="Master.IOperacao">
-    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Position X="2.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
       <FileName>Operacao.cs</FileName>
     </TypeIdentifier>
   </Interface>
+  <Enum Name="Master.Tipo">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Tipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

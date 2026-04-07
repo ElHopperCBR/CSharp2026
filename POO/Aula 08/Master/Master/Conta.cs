@@ -47,7 +47,7 @@
 
         public override string ToString()
         {
-            return $"Dados da conta: " +
+            return $"Dados da conta - {Tipo.ContaNormal}: " +
                 $"\n\tNome do titular: {cliente.nome}" +
                 $"\n\tCPF do titular: {cliente.cpf}" +
                 $"\n\tNúmero da conta: {numero}" +
