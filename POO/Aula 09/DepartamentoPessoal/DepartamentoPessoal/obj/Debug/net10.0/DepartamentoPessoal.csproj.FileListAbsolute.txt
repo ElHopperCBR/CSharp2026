@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\bin\Debug\net10.0\DepartamentoPessoal.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\bin\Debug\net10.0\DepartamentoPessoal.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\bin\Debug\net10.0\DepartamentoPessoal.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\bin\Debug\net10.0\DepartamentoPessoal.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\bin\Debug\net10.0\DepartamentoPessoal.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\refint\DepartamentoPessoal.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\DepartamentoPessoal.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula 09\DepartamentoPessoal\DepartamentoPessoal\obj\Debug\net10.0\ref\DepartamentoPessoal.dll
