@@ -10,7 +10,7 @@
         ///<summary>
         /// Taxa fixa cobrada em cada operação de saque
         /// </summary>
-        private const double taxaSaque = 5.00;
+        private const decimal taxaSaque = 5.00m;
 
 
         //Propriedades
@@ -35,7 +35,7 @@
         ///Saldo atual da conta
         ///'private set' impede alteração direta - só pode mudar através de Deposito ou Saque
         /// </summary>
-        public double Saldo { get; private set; }
+        public decimal Saldo { get; private set; }
 
         //Construtores
         /// <summary>
@@ -52,7 +52,7 @@
         /// <param name="numeroConta">Número único da conta (não pode ser alterado depois)</param>
         /// <param name="titular">Nome do titular da conta</param>
         /// <param name="saldo">Valor do depósito inicial (opcional, padrão = 0)</param>
-        public Banco(int numeroConta, string titular, double saldo = 0)
+        public Banco(int numeroConta, string titular, decimal saldo = 0)
         {
             NumeroConta = numeroConta;
             Titular = titular;
@@ -65,9 +65,9 @@
         /// </summary>
         /// <param name="valor">Valor a ser depositado, deve ser positivo</param>
         /// 
-        public void Deposito(double valor)
+        public void Deposito(decimal valor)
         {
-            if (valor<=0)
+            if (valor <= 0)
             {
                 Console.WriteLine("Valor de depósito deve ser positivo");
                 return;
@@ -84,7 +84,7 @@
         ///IMPORTANTE: Permite saldo negativo se não houver fundos.
         /// </summary>
         /// <param name="valor">Valor a ser sacado(deve ser positivo, não inclui a taxa)</param>
-        public void Saque(double valor)
+        public void Saque(decimal valor)
         {
             if (valor <= 0)
             {
@@ -96,6 +96,18 @@
             Console.WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de {taxaSaque:C} cobrada.");
         }
 
-     
+        ///<summary>
+        ///Exibe os dados da conta no console
+        ///Mostra número da conta, titular e saldo atual
+        /// </summary>
+        /// 
+        public void ExibirDados()
+        {
+            Console.WriteLine("\n---Dados da conta---");
+            Console.WriteLine($"Conta: {NumeroConta}");
+            Console.WriteLine($"Titular: {Titular}");
+            Console.WriteLine($"Saldo: {Saldo:C}");
+            Console.WriteLine("--------------------\n");
+        }
     }
 }
