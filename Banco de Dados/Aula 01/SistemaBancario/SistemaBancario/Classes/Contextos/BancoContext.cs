@@ -15,8 +15,10 @@ namespace SistemaBancario.Classes.Contextos
         //Métodos
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Usando SQLite - banco de dados local em arquivo
-            optionsBuilder.UseSqlite("Data Source=BancoDB.db");
+            // Usando SQLServer
+            optionsBuilder.UseSqlServer(
+            @"Server=(localdb)\MSSQLLocalDB;Database=BancoDB;Trusted_Connection=True;TrustServerCertificate=True;");
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
