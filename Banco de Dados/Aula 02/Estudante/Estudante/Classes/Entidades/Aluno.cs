@@ -28,6 +28,6 @@
             Console.WriteLine($"Curso matriculado: {Curso}");
         }
 
- 
+
     }
 }
