@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04BY+gEt8bs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Desenvolvimento Web\\Aula 01\\Tibia\\Tibia\\Tibia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIC\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.5\\microsoft.aspnetcore.app.internal.assets.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
