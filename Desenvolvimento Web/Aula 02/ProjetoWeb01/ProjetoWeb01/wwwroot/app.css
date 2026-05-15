@@ -2,6 +2,7 @@ h1:focus {
     outline: none;
 }
 
+
 .valid.modified:not([type=checkbox]) {
     outline: 1px solid #26b050;
 }
@@ -56,6 +57,8 @@ h1:focus {
     background-color: #e30613;
     font-size: 1rem;
     color: white;
+    display: flex;
+    align-items: end;
 }
 
 .footer-texto {
@@ -170,7 +173,34 @@ h1:focus {
     text-align: center;
     padding: 10px;
 }
-.acesso:hover{
-    transition: all 1s ease-in-out;
-    scale: 1.1;
+
+    .acesso:hover {
+        transition: all 1s ease-in-out;
+        scale: 1.1;
+    }
+
+.link-cabecalho {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+
+body {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
 }
