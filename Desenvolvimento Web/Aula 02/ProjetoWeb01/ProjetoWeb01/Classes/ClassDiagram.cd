@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ProjetoWeb01.Classes.Entidades.Admin">
+  <Class Name="ProjetoWeb01.Classes.Entidades.Admin" Collapsed="true">
     <Position X="1.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
@@ -14,7 +14,7 @@
       <FileName>Classes\Entidades\Aluno.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ProjetoWeb01.Classes.Entidades.Cursos">
+  <Class Name="ProjetoWeb01.Classes.Entidades.Cursos" Collapsed="true">
     <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
@@ -22,13 +22,13 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ProjetoWeb01.Classes.Entidades.Usuario">
-    <Position X="3.25" Y="0.5" Width="1.5" />
+    <Position X="4.75" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAACAAAAAAAAAAAAAAACAAAAAAAABAAAEAAAA=</HashCode>
       <FileName>Classes\Entidades\Usuario.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Enum Name="ProjetoWeb01.Classes.Enumeracoes.TipoRegra">
+  <Enum Name="ProjetoWeb01.Classes.Enumeracoes.TipoRegra" Collapsed="true">
     <Position X="7.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAAA=</HashCode>
