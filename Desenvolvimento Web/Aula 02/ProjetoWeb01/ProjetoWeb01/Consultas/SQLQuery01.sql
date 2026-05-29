@@ -10,4 +10,4 @@ GO
 */
 
 INSERT INTO Alunos(RA,StatusWIFI,StatusAction,CursoID,Nome,Email,Senha, Regra) VALUES
-(123456, 'Inativo', 'Aguardando aprovação',1,'Kelvin','elma@aluno.senaisp.br','F1c', 0);
+(124789, 'Inativo', 'Aguardando aprovação',1,'Felipe','felipe@aluno.senaisp.br','F1c', 0);
