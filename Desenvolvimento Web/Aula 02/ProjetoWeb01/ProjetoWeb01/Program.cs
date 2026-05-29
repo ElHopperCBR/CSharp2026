@@ -1,6 +1,8 @@
 using ProjetoWeb01.Components;
-using ProjetoWeb01.Classes.Entidades;
 using ProjetoWeb01.Dados;
+using ProjetoWeb01.Classes.Entidades;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Data.SqlClient;
 
 using var context = new AlunoContext();
 
@@ -11,6 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddDbContext<AlunoContext>();
 
 var app = builder.Build();
 
