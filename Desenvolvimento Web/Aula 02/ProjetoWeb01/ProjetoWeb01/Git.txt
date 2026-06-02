@@ -1,0 +1,4 @@
+git config --global user.email "cesar.brandao@sp.senai.br"
+
+git config --global user.name "ElHopperCBR"
+
