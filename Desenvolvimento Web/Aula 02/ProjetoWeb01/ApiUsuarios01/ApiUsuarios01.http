@@ -1,6 +1,0 @@
-@ApiUsuarios01_HostAddress = http://localhost:5101
-
-GET {{ApiUsuarios01_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

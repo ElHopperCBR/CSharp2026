@@ -1,0 +1,12 @@
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\bin\Debug\net10.0\ContratosCompartilhados.deps.json
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\bin\Debug\net10.0\ContratosCompartilhados.dll
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\bin\Debug\net10.0\ContratosCompartilhados.pdb
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.AssemblyInfoInputs.cache
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.AssemblyInfo.cs
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.csproj.CoreCompileInputs.cache
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.sourcelink.json
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.dll
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\refint\ContratosCompartilhados.dll
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ContratosCompartilhados.pdb
+D:\Csharp\ProjetoSA2\Desenvolvimento Web\Aula 02\ProjetoWeb01\ContratosCompartilhados\obj\Debug\net10.0\ref\ContratosCompartilhados.dll

@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Iniciar todos",
+    "Projects": [
+      {
+        "Path": "AplicativoDesktop01\\AplicativoDesktop01.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProjetoWeb01\\ProjetoWeb01.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProjetoAPI01\\ProjetoAPI01.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Desktop e API",
+    "Projects": [
+      {
+        "Path": "AplicativoDesktop01\\AplicativoDesktop01.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProjetoAPI01\\ProjetoAPI01.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

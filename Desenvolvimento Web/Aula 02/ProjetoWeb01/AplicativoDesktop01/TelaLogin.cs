@@ -6,7 +6,8 @@ namespace AplicativoDesktop01
 {
     public partial class TelaLogin : Form
     {
-        private static readonly HttpClient _httpClient = new();
+        private static readonly HttpClient clienteHttp = new();
+        private const string urlApiLogin = "http://localhost:5289/api/usuarios/login";
 
         public TelaLogin()
         {
@@ -15,21 +16,22 @@ namespace AplicativoDesktop01
 
         private async void button1_Click(object sender, EventArgs e)
         {
-            var login = new LoginRequestDto
+            var dadosLogin = new LoginRequestDto
             {
-                Nome = textBox1.Text.Trim(),
+                Email = textBox1.Text.Trim(),
                 Senha = textBox2.Text.Trim()
             };
 
-            if (string.IsNullOrWhiteSpace(login.Nome) || string.IsNullOrWhiteSpace(login.Senha))
+            if (string.IsNullOrWhiteSpace(dadosLogin.Email) || string.IsNullOrWhiteSpace(dadosLogin.Senha))
             {
-                MessageBox.Show("Informe usuário e senha.");
+                MessageBox.Show("Informe e-mail e senha.");
                 return;
             }
 
             try
             {
-                var resposta = await _httpClient.PostAsJsonAsync("https://localhost:7074/api/usuarios/login", login);
+                // Envia os dados de login para o endpoint REST da API.
+                var resposta = await clienteHttp.PostAsJsonAsync(urlApiLogin, dadosLogin);
 
                 if (resposta.StatusCode == HttpStatusCode.Unauthorized)
                 {
@@ -39,8 +41,8 @@ namespace AplicativoDesktop01
 
                 if (!resposta.IsSuccessStatusCode)
                 {
-                    var erro = await resposta.Content.ReadAsStringAsync();
-                    MessageBox.Show($"Não foi possível autenticar. Detalhes: {erro}");
+                    var mensagemErro = await resposta.Content.ReadAsStringAsync();
+                    MessageBox.Show($"Não foi possível autenticar. Detalhes: {mensagemErro}");
                     return;
                 }
 
@@ -69,7 +71,7 @@ namespace AplicativoDesktop01
             }
             catch (HttpRequestException)
             {
-                MessageBox.Show("Não foi possível conectar na API. Confirme se o ApiUsuarios01 está em execução.");
+                MessageBox.Show("Não foi possível conectar na API. Confirme se o ProjetoAPI01 está em execução.");
             }
             catch (JsonException)
             {
@@ -80,7 +82,7 @@ namespace AplicativoDesktop01
 
     public class LoginRequestDto
     {
-        public string Nome { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
         public string Senha { get; set; } = string.Empty;
     }
 
@@ -91,4 +93,5 @@ namespace AplicativoDesktop01
         public string Nome { get; set; } = string.Empty;
         public int Regra { get; set; }
     }
+
 }
