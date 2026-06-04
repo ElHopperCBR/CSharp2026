@@ -1,8 +1,5 @@
 using ProjetoWeb01.Components;
 using ProjetoWeb01.Dados;
-using ProjetoWeb01.Classes.Entidades;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Data.SqlClient;
 
 using var context = new AlunoContext();
 

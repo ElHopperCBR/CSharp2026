@@ -33,8 +33,6 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             button1 = new Button();
-            pictureBox1 = new PictureBox();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -90,17 +88,7 @@
             button1.Text = "Logar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-           
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.imagem;
-            pictureBox1.ImageLocation = "";
-            pictureBox1.Location = new Point(41, 12);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(301, 76);
-            pictureBox1.TabIndex = 5;
-            pictureBox1.TabStop = false;
+
             // 
             // Form1
             // 
@@ -108,7 +96,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
             ClientSize = new Size(378, 494);
-            Controls.Add(pictureBox1);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -117,7 +104,6 @@
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Tela de Login";
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -129,6 +115,5 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Button button1;
-        private PictureBox pictureBox1;
     }
 }

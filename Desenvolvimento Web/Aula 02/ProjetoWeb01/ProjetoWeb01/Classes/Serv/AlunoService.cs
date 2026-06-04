@@ -1,5 +1,5 @@
-﻿using ProjetoWeb01.Dados;
-using ProjetoWeb01.Classes.Entidades;
+﻿using ProjetoWeb01.Classes.Entidades;
+using ProjetoWeb01.Dados;
 
 namespace ProjetoWeb01.Classes.Serv
 {
