@@ -3,6 +3,7 @@ using ProjetoWeb01.Dados;
 using ProjetoWeb01.Classes.Entidades;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Data.SqlClient;
+using ProjetoWeb01.Classes.Serv;
 
 using var context = new AlunoContext();
 
@@ -15,6 +16,8 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddDbContext<AlunoContext>();
+
+builder.Services.AddScoped<AlunoService>();
 
 var app = builder.Build();
 

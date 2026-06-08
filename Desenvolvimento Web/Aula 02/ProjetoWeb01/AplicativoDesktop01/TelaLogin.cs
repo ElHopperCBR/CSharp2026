@@ -15,9 +15,15 @@ namespace AplicativoDesktop01
             bool comparacao1 = textBox1.Text == usuario;
             bool comparacao2 = textBox2.Text == senha;
 
+
             if (comparacao1 & comparacao2)
             {
                 MessageBox.Show("Usuario e senha corretos!");
+                this.Hide();
+                using (var telaAdm = new TelaAdmin())
+                {
+                    telaAdm.ShowDialog();
+                }
                 this.Close();
             }
 

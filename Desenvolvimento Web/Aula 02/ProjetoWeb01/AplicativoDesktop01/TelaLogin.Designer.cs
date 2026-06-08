@@ -90,12 +90,10 @@
             button1.Text = "Logar";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
-           
+
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.imagem;
-            pictureBox1.ImageLocation = "";
             pictureBox1.Location = new Point(41, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(301, 76);

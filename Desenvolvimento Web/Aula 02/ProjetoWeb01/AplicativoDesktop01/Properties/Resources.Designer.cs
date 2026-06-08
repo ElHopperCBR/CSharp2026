@@ -60,24 +60,5 @@ namespace AplicativoDesktop01.Properties {
             }
         }
         
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap imagem {
-            get {
-                object obj = ResourceManager.GetObject("imagem", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap senai_americana_logo {
-            get {
-                object obj = ResourceManager.GetObject("senai_americana_logo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
