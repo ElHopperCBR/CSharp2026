@@ -44,5 +44,21 @@ Este repositório reúne exercícios e projetos práticos organizados por módul
 | Aula 11 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2012)|
 | Aula 12 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2013)|
 
+### Programação orientada a objetos
+
+| Projeto | Status | Link | 
+|---|---|---|
+| Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2000/clodoaldo)|
+| Aula 02 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2001)|
+| Aula 03 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2002/terreno)|
+| Aula 04 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2003)|
+| Aula 05 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2005/Banco)|
+| Aula 06 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2006/Banco1)|
+| Aula 07 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2007/Heranca)|
+| Aula 08 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2008)|
+| Aula 09 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2009/DepartamentoPessoal)|
+| Aula 10 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2010/Figuras)|
+
+
 
   
