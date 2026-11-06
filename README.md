@@ -29,6 +29,7 @@ Este repositório reúne exercícios e projetos práticos organizados por módul
  ## 🦿 Projetos por módulo 🦿
 ### Lógica de programação e algoritmo
 
- |---|---|---|
- | Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2002) |
+| Projeto | Status | Link | 
+|---|---|---|
+| Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2002) |
   
