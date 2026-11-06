@@ -1,4 +1,4 @@
-# Desenvolvedor Back-End - Turma 176A.DBKE.2N26
+# Desenvolvedor Back-End - Turma 176A.DBKE.1N26
 Repositório com as atividades desenvolvidas no curso do **SENAI de Americana** para qualificação em 
 **Desenvolvimento Back-End**.
 ## 🎯 Objetivo do curso 🎯
@@ -60,6 +60,17 @@ Este repositório reúne exercícios e projetos práticos organizados por módul
 | Aula 09 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2009/DepartamentoPessoal)|
 | Aula 10 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/POO/Aula%2010/Figuras)|
 
+### Desenvolvimento de Banco de dados com a técnica ORM
 
+| Projeto | Status | Link | 
+|---|---|---|
+| Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Banco%20de%20Dados/Aula%2001/SistemaBancario)|
+| Aula 02 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Banco%20de%20Dados/Aula%2002/Estudante)|
+| Aula 03 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Banco%20de%20Dados/Aula%2003/MasterBanco)|
 
-  
+### Desenvolvimento de um projeto WEB Full-stack
+
+| Projeto | Status | Link | 
+|---|---|---|
+| Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Desenvolvimento%20Web/Aula%2001/Tibia)|
+| Aula 02 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Desenvolvimento%20Web/Aula%2002/ProjetoWeb01)|  
