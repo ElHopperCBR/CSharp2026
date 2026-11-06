@@ -35,14 +35,14 @@ Este repositório reúne exercícios e projetos práticos organizados por módul
 | Aula 02 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2003)|
 | Aula 03 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2004)|
 | Aula 04 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2005)|
-| Aula 05 |✅ Concluído |[Abrir]()|
-| Aula 06 |✅ Concluído |[Abrir]()|
-| Aula 07 |✅ Concluído |[Abrir]()|
-| Aula 08 |✅ Concluído |[Abrir]()|
-| Aula 09 |✅ Concluído |[Abrir]()|
-| Aula 10 |✅ Concluído |[Abrir]()|
-| Aula 11 |✅ Concluído |[Abrir]()|
-| Aula 12 |✅ Concluído |[Abrir]()|
-| Aula 13 |✅ Concluído |[Abrir]()|
+| Aula 05 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2006)|
+| Aula 06 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2007)|
+| Aula 07 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2008)|
+| Aula 08 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2009)|
+| Aula 09 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2010)|
+| Aula 10 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2011)|
+| Aula 11 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2012)|
+| Aula 12 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2013)|
+
 
   
