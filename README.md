@@ -8,6 +8,7 @@ servidor e seguindo boas práticas, procedimentos e normas.
 ## 😎 Autor 😎
 **ElHopperCBR**
 GitHub:[@ElHopperCBR](https://github.com/ElHopperCBR)
+
 Linkedin:[@CesarBrandão](https://www.linkedin.com/in/cesarbrandaoeletrica/)
 
 ## Carga horária do curso -> 160 horas
