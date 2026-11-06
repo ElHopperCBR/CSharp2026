@@ -32,4 +32,17 @@ Este repositório reúne exercícios e projetos práticos organizados por módul
 | Projeto | Status | Link | 
 |---|---|---|
 | Aula 01 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2002) |
+| Aula 02 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2003)|
+| Aula 03 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2004)|
+| Aula 04 |✅ Concluído |[Abrir](https://github.com/ElHopperCBR/CSharp2026/tree/main/Logica%20de%20programa%C3%A7%C3%A3o%20e%20algoritimos/Aula%2005)|
+| Aula 05 |✅ Concluído |[Abrir]()|
+| Aula 06 |✅ Concluído |[Abrir]()|
+| Aula 07 |✅ Concluído |[Abrir]()|
+| Aula 08 |✅ Concluído |[Abrir]()|
+| Aula 09 |✅ Concluído |[Abrir]()|
+| Aula 10 |✅ Concluído |[Abrir]()|
+| Aula 11 |✅ Concluído |[Abrir]()|
+| Aula 12 |✅ Concluído |[Abrir]()|
+| Aula 13 |✅ Concluído |[Abrir]()|
+
   
